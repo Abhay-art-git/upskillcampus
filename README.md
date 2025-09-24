@@ -5,20 +5,17 @@ This repository contains the work completed as part of my **Upskills Internship*
 ---
 
 ## 🚀 Project Overview
-- **Internship Program:** Upskills  
+- **Internship Program:** Upskills India 
 - **Role:** Intern  
-- **Duration:** [Month, Year – Month, Year]  
-- **Project Title:** [Insert your project title here]  
-- **Objective:**  
-  The goal of this project is to **[briefly describe what your project aims to achieve]**.  
-
+- **Duration:** [11, 2024 – 02, 2025]  
+- **Project Title:** Traffic Pattern Detection &  Crop Detection
 ---
 
 ## 🛠️ Tech Stack
 - Programming Language: [Python / JavaScript / etc.]  
-- Frameworks & Libraries: [TensorFlow, Flask, React, etc.]  
-- Tools: [Git, Jupyter Notebook, Docker, etc.]
-
+- Frameworks & Libraries: [TensorFlow, Streamlit, etc.]  
+- Tools: [Git, Jupyter Notebook , etc.]
+  
 ---
 
 # Upskills Internship Projects
