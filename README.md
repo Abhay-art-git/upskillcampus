@@ -53,7 +53,7 @@ This repository contains the projects I completed as part of my **Upskills Inter
 ## ⚙️ Setup Instructions
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Abhay-art-git/upskillcampus.git
 
 
 
